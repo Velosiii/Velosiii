@@ -1,4 +1,4 @@
-[! [MasterHead](https://giphy.com/gifs/helicopter-IS8rofRVVeY5q)
+! [İmage](https://giphy.com/gifs/helicopter-IS8rofRVVeY5q)
 <h1 align="center">Hi 👋, I'm Velosi</h1>
 <h3 align="center">A passionate frontend developer from Turkey/h3>
 
