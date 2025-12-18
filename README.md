@@ -1,4 +1,4 @@
-! [İmage](https://giphy.com/gifs/helicopter-IS8rofRVVeY5q)
+! [İmage](https://github.com/Velosiii/Velosiii/blob/main/helicopter%20GIF.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Velosi</h1>
 <h3 align="center">A passionate frontend developer from Turkey/h3>
 
