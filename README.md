@@ -2,6 +2,8 @@
   <img src="https://github.com/Velosiii/Velosiii/blob/main/revenge%20of%20the%20fallen%20transformers%20GIF.gif?raw=true" width="650">
 </p>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+
 <h1 align="center">Hi 👋, I'm Velosi</h1>
 <h3 align="center">A passionate frontend developer from Turkey/h3>
 
