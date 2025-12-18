@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Velosiii/Velosiii/blob/main/revenge%20of%20the%20fallen%20transformers%20GIF.gif?raw=true" alt="GIF">
+  <img src="https://github.com/Velosiii/Velosiii/blob/main/revenge%20of%20the%20fallen%20transformers%20GIF.gif?raw=true" width="650">
 </p>
 
 <h1 align="center">Hi 👋, I'm Velosi</h1>
