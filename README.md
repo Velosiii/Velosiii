@@ -2,6 +2,9 @@
   <img src="https://github.com/Velosiii/Velosiii/blob/main/revenge%20of%20the%20fallen%20transformers%20GIF.gif?raw=true" width="650">
 </p>
 
+<h1 align="center">Hi 👋, I'm Velosi</h1>
+<h3 align="center">A passionate street hacker from Turkey </h3>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=velosiii.velosiii)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -16,7 +19,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_velosi/ "Follow on Instagram")
 
 <h1 align="center">Hi 👋, I'm Velosi</h1>
-<h3 align="center">A passionate frontend developer from Turkey </h3>
+<h3 align="center">A passionate street hacker from Turkey </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
