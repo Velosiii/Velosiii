@@ -34,9 +34,110 @@
   </a>
 </p>
 
+<h2 align="center"></h2>
+
+<h3 align="center">⚔️ Elite Pokémon Team</h3>
+
 <p align="center">
-  <img src="./pokemon-team.svg?v=2" alt="Pokemon Team">
+  <sub>Classic • Ghost & Dark oriented • Tactical balance</sub>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center"style="background: radial-gradient(circle at top, #2b1b4d 0%, #161b22 65%);border: 2px solid #7b5cff;border-radius: 14px;padding: 10px;box-shadow:0 0 18px rgba(123,92,255,0.6),inset 0 0 10px rgba(123,92,255,0.25);">
+     <img src="https://raw.githubusercontent.com/Velosiii/Velosiii/main/assets/pokemon/gardevoir.png" width="95"><br>
+     <b>Gardevoir</b><br>
+      <sub>Support / Sp.Atk</sub><br>
+      <sub style="color:#7b5cff;">---ACTIVE---</sub>
+    </td>
+    <td align="center">
+      <img src="assets/pokemon/lopunny.png" width="95"><br>
+      <b>Lopunny</b><br>
+      <sub>Physical Sweeper</sub>
+    </td>
+    <td align="center">
+      <img src="assets/pokemon/umbreon.png" width="95"><br>
+      <b>Umbreon</b><br>
+      <sub>Tank / Stall</sub>
+    </td>
+    <td align="center">
+      <img src="assets/pokemon/zoroark-hisui.png" width="95"><br>
+      <b>Zoroark (H)</b><br>
+      <sub>Mind Games</sub>
+    </td>
+    <td align="center">
+      <img src="assets/pokemon/meowscarada.png" width="95"><br>
+      <b>Meowscarada</b><br>
+      <sub>Speed Control</sub>
+    </td>
+    <td align="center">
+      <img src="assets/pokemon/ceruledge.png" width="95"><br>
+      <b>Ceruledge</b><br>
+      <sub>Late Game Closer</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gardevoir-AI%20%7C%20Python-7b5cff?style=flat" />
+  <img src="https://img.shields.io/badge/Lopunny-UI%2FUX-ffb6c1?style=flat" />
+  <img src="https://img.shields.io/badge/Umbreon-Security-111111?style=flat" />
+  <img src="https://img.shields.io/badge/Zoroark(H)-Reverse%20Eng.-8b0000?style=flat" />
+  <img src="https://img.shields.io/badge/Meowscarada-Automation-3cb371?style=flat" />
+  <img src="https://img.shields.io/badge/Ceruledge-Optimization-ff4500?style=flat" />
+</p>
+
+<details>
+<summary>
+  <p align="center"><b>🔍 View detailed Pokémon ↔ Tech mapping</b></p>
+</summary>
+
+<br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Pokémon</th>
+    <th>Tech / Skill</th>
+    <th>Why</th>
+  </tr>
+  <tr>
+    <td>🧠 <b>Gardevoir</b></td>
+    <td>AI · Python</td>
+    <td>Prediction, analysis, decision-making</td>
+  </tr>
+  <tr>
+    <td>🐰 <b>Lopunny</b></td>
+    <td>UI / UX</td>
+    <td>Speed, fluidity, user-focused design</td>
+  </tr>
+  <tr>
+    <td>🌑 <b>Umbreon</b></td>
+    <td>Cyber Security</td>
+    <td>Defense, resilience, risk management</td>
+  </tr>
+  <tr>
+    <td>🎭 <b>Zoroark (H)</b></td>
+    <td>Reverse Engineering</td>
+    <td>Deception, abstraction, deep analysis</td>
+  </tr>
+  <tr>
+    <td>🌿 <b>Meowscarada</b></td>
+    <td>Automation</td>
+    <td>Fast solutions, efficiency</td>
+  </tr>
+  <tr>
+    <td>🔥 <b>Ceruledge</b></td>
+    <td>Performance Optimization</td>
+    <td>Maximum impact at the right moment</td>
+  </tr>
+</table>
+</div>
+<br>
+</details>
+
+
 
 <p align="center">
   <img src="https://github.com/Velosiii/Velosiii/blob/main/helicopter%20GIF.gif?raw=true" width="650">
