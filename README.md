@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="./pokemon-team.svg" alt="Pokemon Team">
+  <img src="./pokemon-team.svg?v=2" alt="Pokemon Team">
 </p>
 
 <p align="center">
