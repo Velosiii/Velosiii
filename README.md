@@ -2,10 +2,8 @@
   <img src="https://github.com/Velosiii/Velosiii/blob/main/revenge%20of%20the%20fallen%20transformers%20GIF.gif?raw=true" width="650">
 </p>
 
-<h1 align="center">Hi 👋, I'm Velosi</h1>
-<h3 align="center">A passionate street hacker/maker from Turkey </h3>
-
 <p align="center">
+  <img src="./header.svg" alt="Velosi Header" />
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
