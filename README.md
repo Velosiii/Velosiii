@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Velosi</h1>
-<h3 align="center">A passionate street hacker from Turkey </h3>
+<h3 align="center">A passionate street hacker/maker from Turkey </h3>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -24,7 +24,9 @@
   </a>
 </p>
 
-![image](https://github.com/Velosiii/Velosiii/blob/main/helicopter%20GIF.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/Velosiii/Velosiii/blob/main/helicopter%20GIF.gif?raw=true" width="650">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=velosiii&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="170" />
