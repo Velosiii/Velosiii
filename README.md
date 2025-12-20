@@ -35,6 +35,11 @@
 </p>
 
 <p align="center">
+  <img src="./pokemon-team.svg" alt="Pokemon Team" />
+</p>
+
+
+<p align="center">
   <img src="https://github.com/Velosiii/Velosiii/blob/main/helicopter%20GIF.gif?raw=true" width="650">
 </p>
 
