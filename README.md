@@ -78,6 +78,7 @@
   </tr>
 </table>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Gardevoir-AI%20%7C%20Python-7b5cff?style=flat" />
   <img src="https://img.shields.io/badge/Lopunny-UI%2FUX-ffb6c1?style=flat" />
