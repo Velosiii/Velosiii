@@ -27,6 +27,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=velosiii.velosiii" />
 </p>
 
+Cool,right?
 
 <p align="center">
   <a href="https://skillicons.dev">
