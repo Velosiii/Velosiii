@@ -95,7 +95,7 @@
 <br>
 
 <div align="center">
- 
+
 <table>
   <tr>
     <th>Pokémon</th>
