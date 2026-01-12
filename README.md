@@ -40,7 +40,7 @@
 <p align="center">
   <sub>Classic • Ghost & Dark oriented • Tactical balance</sub>
 </p>
- 
+
 <table align="center">
   <tr>
     <td align="center"style="background: radial-gradient(circle at top, #2b1b4d 0%, #161b22 65%);border: 2px solid #7b5cff;border-radius: 14px;padding: 10px;box-shadow:0 0 18px rgba(123,92,255,0.6),inset 0 0 10px rgba(123,92,255,0.25);">
