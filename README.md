@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" />
 </p>
-
+ 
 <p align="center">
   <a href="https://open.spotify.com/user/7z9jyf8snqgi6kq5jqbehqnkq?si=db2d47a5eab64b19" target="_blank">
     <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white" />
