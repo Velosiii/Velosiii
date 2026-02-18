@@ -3,7 +3,6 @@
 </p>
 
 
-
 <p align="center">
   <img src="./header.svg" alt="Velosi Header" />
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
